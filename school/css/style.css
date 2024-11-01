@@ -1,0 +1,184 @@
+* {
+  direction: rtl;
+  font-family: vazirmatn fd;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.bime {
+  background-image: url(photo/insuranceBg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 18px solid white;
+  padding: 10rem !important;
+}
+
+#typesofinsurance {
+  width: 50px;
+}
+
+.bimezendegi {
+  background-color: #14317A;
+}
+
+#kharidanlainimgbachgrand {
+  width: 100%;
+}
+
+.onlineShopping {
+  width: 100%;
+  background-image: url(photo/onlineshopping.jpg);
+  background-repeat: no-repeat;
+}
+
+#kharidanlainimg {
+  width: 70px;
+  background-color: #FFFFFF;
+}
+
+.khadamatelektronik {
+  text-align: center;
+}
+
+#khadamatelektronikimg {
+  border-bottom: 3px solid rgb(255, 255, 255);
+  border-left: 3px solid rgb(255, 255, 255);
+  box-sizing: border-box;
+  background-color: #EDF0F8;
+}
+
+#khadamatelektronikimg:hover {
+  background-color: #c9e5ea;
+}
+
+div > i {
+  font-size: 60px;
+}
+
+.test7:hover {
+  background-color: #fd7e14;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test6:hover {
+  background-color: #e83e8c;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test5:hover {
+  background-color: #ffc107;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test4:hover {
+  background-color: #dc3545;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test3:hover {
+  background-color: #28a745;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test2:hover {
+  background-color: #17a2b8;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.test {
+  text-align: center;
+}
+
+.test:hover {
+  background-color: #28a745;
+  border-radius: 50%;
+}
+
+.imgfamily {
+  width: 75%;
+  border-radius: 20px;
+  margin-right: 12%;
+}
+
+.paivand {
+  text-align: center;
+}
+
+#paivandimg {
+  display: flex;
+  margin-right: 15%;
+}
+
+#paivandtext {
+  margin-left: 20px;
+}
+
+.shenasebank {
+  display: flex;
+  background-color: #EDF0F8;
+  text-align: center;
+  margin-top: 150px;
+}
+
+#shenasebankimg {
+  margin-bottom: 80px;
+  margin-left: 15px;
+}
+
+#shenasebanktext {
+  color: #444;
+}
+
+#shenasebankbutton {
+  border-radius: 100%;
+}
+
+#buttonimg {
+  width: 20px;
+}
+
+.link {
+  background-color: #EDF0F8;
+}
+
+#circle {
+  width: 15px;
+  color: #C8141E solid 1px #C8141E;
+}
+
+#etelat {
+  margin-top: 49px;
+  border-left: 1px solid black;
+}
+
+#imgsherkhat {
+  width: 60px;
+  text-align: end;
+}
+
+.hoghoghbank {
+  background-color: #14317A;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+  margin-left: 49px;
+  margin-right: 49px;
+  color: #FFFFFF;
+}
+
+#imghoghoghbank {
+  width: 55px;
+}
+
+#imgsaman {
+  width: 60px;
+} /*# sourceMappingURL=style.css.map */
